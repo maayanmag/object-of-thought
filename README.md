@@ -6,39 +6,37 @@ This repository documents a series of experimental investigations into how objec
 
 ---
 
-## Phase 1: Invasive Grid
+## Phase 1: The Mutant Bookmark (Invasive Grid)
 
-**The Question:** How does a grid—typically a neutral framework for ordering space—become invasive when applied to organic, three-dimensional form?
+**The Object:** The bookmark—the most submissive, invisible object in a reader's ecology.
 
-In this phase, we explored the tension between computational precision and material resistance. A gridded structure was imposed onto found objects and spaces, asking: *Does the grid reveal or obscure what the object is?* Does the mathematical order liberate or constrain the object's agency?
+**The Question:** What happens when we transform the bookmark from a silent servant into an aggressive architectural parasite? How does parametric generation reveal the hidden potential in the most mundane form?
 
-![Invasive Grid Study](./assignment_1_invasive_grid/presentation_pics/IMG_3800.jpeg)
+In this phase, we 3D-printed 15 mutant bookmarks in three evolutionary species, inserted them at prime-numbered pages, and asked: *At what point does the tool consume its host? What does the bookmark teach us about constraint, utility, and resistance?*
 
-The research examined:
-- Grid as a colonizing force on natural form
-- Material response to computational order
-- The political and poetic dimensions of spatial systems
-- Documentation as a means of revealing hidden structures
-
-**Explore:** See [`assignment_1_invasive_grid/`](./assignment_1_invasive_grid/) for full documentation, models, and process notes.
+**Explore:** See [`assignment_1_invasive_grid/`](./assignment_1_invasive_grid/) for:
+- Full concept documentation and research essay
+- Blender Python generators (3 species × 5 variations)
+- All 15 3D-printed STL models
+- Technical specifications and assembly guide
+- Process photographs
 
 ---
 
-## Phase 2: Affordance & Keyboard
+## Phase 2: Affordance & Keyboard (K850)
 
-**The Question:** What hidden languages does the keyboard embody? Can we make visible the assumed, invisible structures that mediate our interaction with digital and physical worlds?
+**The Object:** The Logitech K850 keyboard—a tool so transparent we forget we're using it.
 
-This phase investigated *affordance*—the qualities that invite or suppress action. By isolating and exaggerating the tactile and conceptual affordances of a keyboard, we asked: *What does this ordinary object teach us about control, intention, and the gap between what we intend to express and what the machine permits?*
+**The Question:** What if we made the affordances of the keyboard visible by *breaking* them? By designing 8 keycap variants that each demand a different gesture, can we reveal what the standard form usually conceals?
 
-![Affordance & Keyboard Exploration](./assignment_2_affordance_keyboard/presentation_pics/IMG_4131.jpg)
+This phase created 8 3D-printed keycap variants for the Logitech K850, each with a distinct affordance: grasp, pull, slide, pinch, target, balance. We asked: *How do shapes teach hands? What does the keyboard refuse to let us express?*
 
-The research examined:
-- Haptic language and tactile feedback as communication
-- The politics of constraint (what the keyboard refuses)
-- Digital-to-physical translation and loss
-- Objects as repositories of cultural assumptions
-
-**Explore:** See [`assignment_2_affordance_keyboard/`](./assignment_2_affordance_keyboard/) for full technical documentation, 3D models, fabrication specs, and research notes.
+**Explore:** See [`assignment_2_affordance_keyboard/`](./assignment_2_affordance_keyboard/) for:
+- Complete affordance theory and research documentation
+- All 8 keycap variants (STL files, ready to print)
+- Technical specifications with scissor-switch research
+- Parametric Python generator for customization
+- Validation methodology and fabrication guides
 
 ---
 
@@ -52,6 +50,22 @@ Each phase follows a research-making cycle:
 4. **Iteration** — What does failure teach us?
 
 Documentation includes sketches, photographs, 3D models, code, and reflective notes. We treat objects and algorithms as equally valid forms of thinking.
+
+---
+
+## Gallery
+
+### Phase 1: Mutant Bookmarks
+
+![Bookmark exploration 1](./assignment_1_invasive_grid/presentation_pics/IMG_3794.jpeg)
+![Bookmark exploration 2](./assignment_1_invasive_grid/presentation_pics/IMG_3800.jpeg)
+![Bookmark exploration 3](./assignment_1_invasive_grid/presentation_pics/IMG_3797.jpeg)
+
+### Phase 2: Affordance Keycaps
+
+![Keycap study 1](./assignment_2_affordance_keyboard/presentation_pics/IMG_4131.jpg)
+![Keycap study 2](./assignment_2_affordance_keyboard/presentation_pics/IMG_4132.jpg)
+![Keycap study 3](./assignment_2_affordance_keyboard/presentation_pics/IMG_4137.jpg)
 
 ---
 
