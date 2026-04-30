@@ -23,15 +23,20 @@ In this phase, we 3D-printed 15 mutant bookmarks in three evolutionary species, 
 
 ---
 
-## Phase 2: Affordance & Keyboard (K850) — Complete Locally
+## Phase 2: Affordance & Keyboard (K850) ✓ LIVE
 
 **The Object:** The Logitech K850 keyboard—a tool so transparent we forget we're using it.
 
 **The Question:** What if we made the affordances of the keyboard visible by *breaking* them? By designing 8 keycap variants that each demand a different gesture, can we reveal what the standard form usually conceals?
 
-This phase created 8 3D-printed keycap variants for the Logitech K850, each with a distinct affordance: grasp, pull, slide, pinch, target, balance.
+This phase created 8 3D-printed keycap variants for the Logitech K850, each with a distinct affordance: grasp, pull, slide, pinch, target, balance. We asked: *How do shapes teach hands? What does the keyboard refuse to let us express?*
 
-**Status:** Complete locally with full documentation and 7 presentation photos. Files available upon request as the push is being optimized for GitHub's size constraints.
+**Explore:** See [`assignment_2_affordance_keyboard/`](./assignment_2_affordance_keyboard/) for:
+- Complete affordance theory and research documentation
+- All 8 keycap variants (3D models and specifications)
+- Technical specifications with scissor-switch research
+- Parametric design and fabrication guides
+- 7 presentation photographs in `presentation_pics/`
 
 ---
 
@@ -57,6 +62,14 @@ Documentation includes sketches, photographs, 3D models, code, and reflective no
 ![Bookmark exploration 3](./assignment_1_invasive_grid/presentation_pics/IMG_3797.jpeg)
 
 All 8 presentation images in `assignment_1_invasive_grid/presentation_pics/`
+
+### Phase 2: Affordance Keycaps
+
+![Keycap study 1](./assignment_2_affordance_keyboard/presentation_pics/IMG_4131.jpg)  
+![Keycap study 2](./assignment_2_affordance_keyboard/presentation_pics/IMG_4132.jpg)  
+![Keycap study 3](./assignment_2_affordance_keyboard/presentation_pics/IMG_4137.jpg)
+
+All 7 presentation images in `assignment_2_affordance_keyboard/presentation_pics/`
 
 ---
 
