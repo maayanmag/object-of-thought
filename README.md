@@ -6,7 +6,7 @@ This repository documents a series of experimental investigations into how objec
 
 ---
 
-## Phase 1: The Mutant Bookmark (Invasive Grid)
+## Phase 1: The Mutant Bookmark (Invasive Grid) ✓ LIVE
 
 **The Object:** The bookmark—the most submissive, invisible object in a reader's ecology.
 
@@ -19,24 +19,19 @@ In this phase, we 3D-printed 15 mutant bookmarks in three evolutionary species, 
 - Blender Python generators (3 species × 5 variations)
 - All 15 3D-printed STL models
 - Technical specifications and assembly guide
-- Process photographs
+- 8 process photographs in `presentation_pics/`
 
 ---
 
-## Phase 2: Affordance & Keyboard (K850)
+## Phase 2: Affordance & Keyboard (K850) — Complete Locally
 
 **The Object:** The Logitech K850 keyboard—a tool so transparent we forget we're using it.
 
 **The Question:** What if we made the affordances of the keyboard visible by *breaking* them? By designing 8 keycap variants that each demand a different gesture, can we reveal what the standard form usually conceals?
 
-This phase created 8 3D-printed keycap variants for the Logitech K850, each with a distinct affordance: grasp, pull, slide, pinch, target, balance. We asked: *How do shapes teach hands? What does the keyboard refuse to let us express?*
+This phase created 8 3D-printed keycap variants for the Logitech K850, each with a distinct affordance: grasp, pull, slide, pinch, target, balance.
 
-**Explore:** See [`assignment_2_affordance_keyboard/`](./assignment_2_affordance_keyboard/) for:
-- Complete affordance theory and research documentation
-- All 8 keycap variants (STL files, ready to print)
-- Technical specifications with scissor-switch research
-- Parametric Python generator for customization
-- Validation methodology and fabrication guides
+**Status:** Complete locally with full documentation and 7 presentation photos. Files available upon request as the push is being optimized for GitHub's size constraints.
 
 ---
 
@@ -53,19 +48,15 @@ Documentation includes sketches, photographs, 3D models, code, and reflective no
 
 ---
 
-## Gallery
+## Image Gallery
 
 ### Phase 1: Mutant Bookmarks
 
-![Bookmark exploration 1](./assignment_1_invasive_grid/presentation_pics/IMG_3794.jpeg)
-![Bookmark exploration 2](./assignment_1_invasive_grid/presentation_pics/IMG_3800.jpeg)
+![Bookmark exploration 1](./assignment_1_invasive_grid/presentation_pics/IMG_3794.jpeg)  
+![Bookmark exploration 2](./assignment_1_invasive_grid/presentation_pics/IMG_3800.jpeg)  
 ![Bookmark exploration 3](./assignment_1_invasive_grid/presentation_pics/IMG_3797.jpeg)
 
-### Phase 2: Affordance Keycaps
-
-![Keycap study 1](./assignment_2_affordance_keyboard/presentation_pics/IMG_4131.jpg)
-![Keycap study 2](./assignment_2_affordance_keyboard/presentation_pics/IMG_4132.jpg)
-![Keycap study 3](./assignment_2_affordance_keyboard/presentation_pics/IMG_4137.jpg)
+All 8 presentation images in `assignment_1_invasive_grid/presentation_pics/`
 
 ---
 
@@ -83,10 +74,10 @@ Check back for Phase 3 and beyond.
 
 ## Technical Notes
 
-- **3D Models:** Found in `assignment_2_affordance_keyboard/models/` — ready for fabrication or inspection
+- **3D Models:** Found in respective project folders
 - **Media:** High-resolution documentation in `presentation_pics/` folders
-- **Specifications:** Design and fabrication details in respective `spec/` folders
-- **Source Code:** Any generative or technical work in `src/` directories
+- **Specifications:** Design and fabrication details in each phase's README
+- **Source Code:** Generative and technical work in `src/` directories
 
 ---
 
