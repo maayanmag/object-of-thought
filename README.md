@@ -65,9 +65,9 @@ All 8 presentation images in `assignment_1_invasive_grid/presentation_pics/`
 
 ### Phase 2: Affordance Keycaps
 
-![Keycap study 1](./assignment_2_affordance_keyboard/presentation_pics/IMG_4131.jpg)  
-![Keycap study 2](./assignment_2_affordance_keyboard/presentation_pics/IMG_4132.jpg)  
-![Keycap study 3](./assignment_2_affordance_keyboard/presentation_pics/IMG_4137.jpg)
+![Keyboard overview](./assignment_2_affordance_keyboard/presentation_pics/IMG_4131.jpg)  
+![Keycap detail: mini plant](./assignment_2_affordance_keyboard/presentation_pics/IMG_4135.jpg)  
+![Variant comparison](./assignment_2_affordance_keyboard/presentation_pics/IMG_4134.jpg)
 
 All 7 presentation images in `assignment_2_affordance_keyboard/presentation_pics/`
 
