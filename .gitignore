@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+.Spotlight-V100
+.Trashes
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Node
+node_modules/
+package-lock.json
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*~
+
+# Blender
+*.blend1
+*.blend2
+*.tmp.blend
+
+# Media backups
+*.HEIC
+*.original

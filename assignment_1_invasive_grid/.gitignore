@@ -1,0 +1,16 @@
+# Blender temps
+*.blend1
+*.blend2
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary STLs from failed runs (keep models/ contents)
+*.tmp.stl

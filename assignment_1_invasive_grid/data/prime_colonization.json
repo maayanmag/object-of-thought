@@ -1,0 +1,146 @@
+{
+  "title": "The Invasive Grid \u2014 Colonization Protocol",
+  "description": "Each prime-numbered page is colonized by a mutant bookmark species. The sequence follows an evolutionary arc: infection (Piercers) \u2192 colonization (Bone-Grinders) \u2192 transformation (Structural Parasites).",
+  "placements": [
+    {
+      "page": 2,
+      "species": "piercer",
+      "variation": 1,
+      "phase": "infection"
+    },
+    {
+      "page": 3,
+      "species": "piercer",
+      "variation": 2,
+      "phase": "infection"
+    },
+    {
+      "page": 5,
+      "species": "piercer",
+      "variation": 3,
+      "phase": "infection"
+    },
+    {
+      "page": 7,
+      "species": "piercer",
+      "variation": 4,
+      "phase": "infection"
+    },
+    {
+      "page": 11,
+      "species": "piercer",
+      "variation": 5,
+      "phase": "infection"
+    },
+    {
+      "page": 13,
+      "species": "piercer",
+      "variation": 1,
+      "phase": "infection"
+    },
+    {
+      "page": 17,
+      "species": "piercer",
+      "variation": 2,
+      "phase": "infection"
+    },
+    {
+      "page": 19,
+      "species": "bone_grinder",
+      "variation": 1,
+      "phase": "colonization"
+    },
+    {
+      "page": 23,
+      "species": "bone_grinder",
+      "variation": 2,
+      "phase": "colonization"
+    },
+    {
+      "page": 29,
+      "species": "bone_grinder",
+      "variation": 3,
+      "phase": "colonization"
+    },
+    {
+      "page": 31,
+      "species": "bone_grinder",
+      "variation": 4,
+      "phase": "colonization"
+    },
+    {
+      "page": 37,
+      "species": "bone_grinder",
+      "variation": 5,
+      "phase": "colonization"
+    },
+    {
+      "page": 41,
+      "species": "bone_grinder",
+      "variation": 1,
+      "phase": "colonization"
+    },
+    {
+      "page": 43,
+      "species": "bone_grinder",
+      "variation": 2,
+      "phase": "colonization"
+    },
+    {
+      "page": 47,
+      "species": "structural_parasite",
+      "variation": 1,
+      "phase": "transformation"
+    },
+    {
+      "page": 53,
+      "species": "structural_parasite",
+      "variation": 2,
+      "phase": "transformation"
+    },
+    {
+      "page": 59,
+      "species": "structural_parasite",
+      "variation": 3,
+      "phase": "transformation"
+    },
+    {
+      "page": 61,
+      "species": "structural_parasite",
+      "variation": 4,
+      "phase": "transformation"
+    },
+    {
+      "page": 67,
+      "species": "structural_parasite",
+      "variation": 5,
+      "phase": "transformation"
+    },
+    {
+      "page": 71,
+      "species": "structural_parasite",
+      "variation": 1,
+      "phase": "transformation"
+    },
+    {
+      "page": 73,
+      "species": "structural_parasite",
+      "variation": 2,
+      "phase": "transformation"
+    },
+    {
+      "page": 79,
+      "species": "structural_parasite",
+      "variation": 3,
+      "phase": "transformation"
+    }
+  ],
+  "summary": {
+    "total_specimens": 22,
+    "species_distribution": {
+      "piercer": 7,
+      "bone_grinder": 7,
+      "structural_parasite": 8
+    }
+  }
+}
